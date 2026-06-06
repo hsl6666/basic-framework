@@ -1,0 +1,2 @@
+"""Backend scaffold application package."""
+

@@ -22,3 +22,11 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+*.log
+*.egg-info/
